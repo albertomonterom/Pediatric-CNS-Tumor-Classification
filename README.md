@@ -3,7 +3,7 @@
 **Pediatric CNS tumor classification from RNA-seq expression profiles.**
 UCSD Carter Lab · Israni Biomedical Facility · Summer 2025
 
-[![Poster](docs/poster.jpeg)](docs/poster.pdf)
+[![Poster](docs/poster.jpeg)]
 
 ---
 
